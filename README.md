@@ -7,3 +7,9 @@
 > (宿題is like a 業界用語 for legislative review)
 
 ![IMG_0581](https://github.com/user-attachments/assets/84571457-09f0-42e1-9d12-df679eb4e289)
+
+## Ideation
+
+The point of the hackathon isn't to make a polished product, but rather to propose an idea that they could polish themselves. We will just be making a rough prototype for demonstration purposes. So if our idea is too similar to what they are already doing, then it won't be of much benefit to them.
+
+Looking at their presentations, it seems they are very cautious about using LLMs, when it comes to their inaccuracy and hallucinations (thank god!). So suggesting that we can get an LLM to *replace* humans would probably not make a good impression. We would want to propose that the LLM is merely an *assistant* and a *copilot*.
