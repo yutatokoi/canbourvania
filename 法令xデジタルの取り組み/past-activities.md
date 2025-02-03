@@ -1,0 +1,6 @@
+# デジタル庁が今まで「法令xデジタル」をテーマにしてきたこと
+
+## 法令×デジタルワークショップ【Part 1】法令×デジタルの取組紹介
+
+YouTube: <https://youtu.be/N0jOrbJlq8w?si=ifrap2bXgyenjFhz>
+説明資料: ![20240403_policies_legal_practice_workshop_202403.pdf]
