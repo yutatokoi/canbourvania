@@ -8,3 +8,5 @@
 - 法令は社会の基盤。法令データを利活用した社会的価値の高いサービスの開発が期待。
     - 法令を編集・分析・管理する「法制事務」は、「法令データ」を支える基盤。
     - 現在の法制事務は目視・手作業に頼る。デジタル技術を最大限活用できるよう改善が急務。
+    - Although 法令 is similar to programming, it lacks good "developer experience"
+    - <img width="1497" alt="Screenshot 2025-02-03 at 20 21 52" src="https://github.com/user-attachments/assets/3ae820e9-26a4-4538-8d93-b30308686575" />
