@@ -14,4 +14,4 @@ The point of the hackathon isn't to make a polished product, but rather to propo
 
 Looking at their presentations, it seems they are very cautious about using LLMs, when it comes to their inaccuracy and hallucinations (thank god!). So suggesting that we can get an LLM to *replace* humans would probably not make a good impression. We would want to propose that the LLM is merely an *assistant* and a *copilot*.
 
-AIには名前を付ける方が日本人には親しみやすい (安野さん): <https://youtu.be/fNEky0bVXjE?si=wNz7o5zwFHE2Mu9y&t=634>
+AIには名前を付けて、人格を作り上げる方が日本人には親しみやすい (安野さん): <https://youtu.be/fNEky0bVXjE?si=wNz7o5zwFHE2Mu9y&t=634>
