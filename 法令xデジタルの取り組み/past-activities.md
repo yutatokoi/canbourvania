@@ -46,3 +46,6 @@
 ## 生成AIの取り組み（ハッカソン1日目発表資料）
 
 - They used o1 for 条文案生成
+    - It seems like they only tried to prompt better
+    - Results were not great. Only good for たたき台やブレインストーミング
+    - -> Would be faster to just make the 条文案 without o1
