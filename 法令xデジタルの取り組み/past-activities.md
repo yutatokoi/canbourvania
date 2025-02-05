@@ -49,3 +49,13 @@
     - It seems like they only tried to prompt better
     - Results were not great. Only good for たたき台やブレインストーミング
     - -> Would be faster to just make the 条文案 without o1
+
+## 株式会社Kiei実証調査
+
+(<https://prtimes.jp/main/html/rd/p/000000012.000128238.html>)
+
+- アナログ規制点検ツール
+    - 現在ある法令には、アナログ規制である可能性を通知する
+    - 正確な判定からは程遠い。Promptによる判定とEmbeddingを用いた判定のハイブリッド、単語ベクトルによる類似度推測
+- 用例検索システム
+    - 
