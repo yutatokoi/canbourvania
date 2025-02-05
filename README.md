@@ -8,6 +8,13 @@
 
 ![IMG_0581](https://github.com/user-attachments/assets/84571457-09f0-42e1-9d12-df679eb4e289)
 
+## Feedback from 上田さん（デジタル庁出向、元New Yorkの法学部の留学）
+
+- 昔の職人は割と一太郎を使いがちだが、現在はWordに移行中
+- 法文は0から一人だけで書き上げるのは難しい。単語のチョイスとか書き方に素人感が出たり、統一感がないから。だから現状は現存のものを参考にしながら書き上げる
+- 条文検索などが簡単にできると便利
+- 問題はどこまでのクオリティに仕上げられるか
+
 ## Ideation
 
 The point of the hackathon isn't to make a polished product, but rather to propose an idea that they could polish themselves. We will just be making a rough prototype for demonstration purposes. So if our idea is too similar to what they are already doing, then it won't be of much benefit to them.
