@@ -15,6 +15,8 @@
 - 条文検索などが簡単にできると便利
 - 問題はどこまでのクオリティに仕上げられるか
 
+デジ庁カワノさん：横書きの仕様書を縦書きの法律に書き直すのに5人必要！法令ハッカソンにはこういうの求める
+
 ## Ideation
 
 The point of the hackathon isn't to make a polished product, but rather to propose an idea that they could polish themselves. We will just be making a rough prototype for demonstration purposes. So if our idea is too similar to what they are already doing, then it won't be of much benefit to them.
