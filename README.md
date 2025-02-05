@@ -1,5 +1,14 @@
 # キャンボルベニア
 
+## Roadmap
+
+1. Make a template-like Word Add-in that does the following
+  - Ability to "see" the content
+  - Ability to process the content seen
+  - Ability to modify the content based on the process result
+2. Add LLM capabilities to the processing of the content
+3. Output the LLM processed results to the Word interface
+
 ## 提出案
 
 > 行政機関の意思決定過程における効率化を目指し、AIを活用した立法支援ツールの開発を提案します。本ツールは、既存の法令や判例データベースを基盤に、条文案の検証、用例検索、改正案作成支援を行います。さらに、議論内容を自動で記録し宿題事項を整理する機能や、文書作成の効率化を図る機能を備えます。この結果、法制局審査や主管省庁の準備作業の効率化を実現し、法案作成全体のプロセス短縮と精度向上が期待されます。
