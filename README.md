@@ -6,6 +6,10 @@
   - Ability to "see" the content
   - Ability to process the content seen
   - Ability to modify the content based on the process result
+  - Sample repositories:
+    - Hello world in Word: <https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/hello-world/word-hello-world>
+    - AI generated content in Word: <https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples/word-ai-generated-content>
+    - Other Word Add-in samples: <https://github.com/OfficeDev/Office-Add-in-samples/tree/main/Samples>
 2. Add LLM capabilities to the processing of the content
 3. Output the LLM processed results to the Word interface
 
