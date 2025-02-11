@@ -19,6 +19,7 @@
   - Seems like the simplest solution to get a RAG model working (RAG is probably the best method for this use case)
   - Critical things that I still need to consider:
     - Does it have an API interface to be able to connect to the Word Add-in?
+      - Even if not, could we just have an intermediary server (like on AWS?) to mediate the communication between the Word Add-in and the Dify workflow?
     - Does it take XML or JSON data? -> If not, what options would I have to convert the XML data?
 
 ## 提出案
