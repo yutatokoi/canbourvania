@@ -1,14 +1,32 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /* global Word console */
 
-export async function insertText(text: string) {
-  // Write text to the document.
-  try {
-    await Word.run(async (context) => {
-      let body = context.document.body;
-      body.insertParagraph(text, Word.InsertLocation.end);
-      await context.sync();
-    });
-  } catch (error) {
-    console.log("Error: " + error);
+Office.context.document.addHandlerAsync(
+  Office.EventType.DocumentSelectionChanged,
+  async function () {
+    try {
+      // Get the current selection
+      const selection = await Word.run(async (context) => {
+        const range = context.document.getSelection();
+        range.load("text");
+        await context.sync();
+        return range.text;
+      });
+
+      // Write the selected text to the message element
+      write(selection);
+    } catch (error) {
+      console.error("Error:", error);
+      write("Error getting selection");
+    }
+  },
+  function (result) {
+    if (result.status === Office.AsyncResultStatus.Failed) {
+      console.error("Failed to add handler:", result.error);
+    }
   }
+);
+
+function write(message) {
+  document.getElementById("message").innerText += message;
 }
