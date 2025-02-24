@@ -34,12 +34,16 @@
     "es6-promise": "^4.2.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "regenerator-runtime": "^0.14.1"
+    "regenerator-runtime": "^0.14.1",
+    "remark-html": "^16.0.1",
+    "remark-parse": "^11.0.0",
+    "unified": "^11.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
     "@babel/preset-env": "^7.25.4",
     "@babel/preset-typescript": "^7.23.3",
+    "@tanstack/eslint-plugin-query": "^5.66.1",
     "@types/office-js": "^1.0.377",
     "@types/office-runtime": "^1.0.35",
     "@types/react": "^18.2.64",
@@ -48,7 +52,7 @@
     "acorn": "^8.11.3",
     "babel-loader": "^9.1.3",
     "copy-webpack-plugin": "^12.0.2",
-    "eslint-plugin-office-addins": "^3.0.2",
+    "eslint-plugin-office-addins": "^3.0.3",
     "eslint-plugin-react": "^7.28.0",
     "file-loader": "^6.2.0",
     "html-loader": "^5.0.0",
