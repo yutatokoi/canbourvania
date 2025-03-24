@@ -10,3 +10,4 @@
 
 最新の[法令データ](https://laws.e-gov.go.jp/bulkdownload/)を参照する LLM の RAG を使用することで正確性を保つだけでなく、情報のソースを確実かつ簡単に参照できます。
 
+https://github.com/user-attachments/assets/3bfa2cd1-6ac9-4515-91ed-19c28b7d591d
